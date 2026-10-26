@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Dirk Farin - Algorithmic Research e.K. is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://imagemeter.com/
+Dirk Farin - Algorithmic Research e.K. is a German research and development company focused on advanced computer vision, image compression, and video coding technologies. Founded by Dirk Farin, the firm offers consultancy, custom software development, and maintains the ImageMeter software suite. The website provides project overviews, publications, and contact information, while also linking to related open‑source projects such as libheif.
+
+**Areas:** Company · Computer Vision · Image Compression · Video Coding · Consultancy · Open Source
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.dirk-farin.net/)
+- [Privacy policy](https://www.dirk-farin.net/privacy.html)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/dirk-farin-algorithmic-research-e-k/](https://apis.io/providers/dirk-farin-algorithmic-research-e-k/).
